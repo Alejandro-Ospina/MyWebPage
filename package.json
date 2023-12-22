@@ -1,0 +1,12 @@
+{
+  "name": "alejoweb",
+  "version": "1.0.0",
+  "description": "This repo gathers my personal information, related to personal software projects as well as own academic articles and other specifications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
